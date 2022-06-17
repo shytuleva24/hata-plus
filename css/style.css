@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+img {
+    vertical-align: bottom;
+}
+
+.main {
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.wrapper {
+    width: 600px;
+}
+
+.header td {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.header {
+    background-color: #dcdce5;
+}
+
+.header td {
+    background-color: #ffffff;
+    padding-top: 13px;
+    padding-bottom: 13px;
+
+}
+
+.head-contact {
+    text-align: right;
+    font-size: 13px;
+    line-height: 18px;
+    color: #9999a6;
+    font-style: italic;
+}
+
+.phone {
+    font-size: 16px;
+    line-height: 24px;
+    color: #25252c;
+    font-weight: bold;
+    font-style: normal;
+    /* vertical-align: middle; */
+}
+
+.phone img {
+    vertical-align: middle;
+}
+
+.body {
+    background-color: #f5f5f5;
+}
+
+.about-company {
+    background-color: #ffffff;
+}
+
+.about-company h1 {
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 24px;
+    line-height: 24px;
+    color: #24242b;
+    font-weight: bold;
+    padding-top: 39px;
+    padding-bottom: 24px;
+
+}
+
+.about-company p {
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 540px;
+    height: 102px;
+    line-height: 24px;
+    color: #666666;
+
+}
+
+.about-company a {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.about-company img {
+    padding-top: 21px;
+    padding-bottom: 37px;
+}
