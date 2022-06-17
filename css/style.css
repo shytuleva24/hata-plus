@@ -91,7 +91,96 @@ img {
     padding-left: 30px;
     padding-right: 30px;
 }
+
 .about-company img {
     padding-top: 21px;
     padding-bottom: 37px;
+}
+
+.dignity {
+    background-color: #ededf5;
+}
+
+.dignity td {
+    padding-left: 32px;
+}
+
+.dignity-last{
+    padding-right: 32px;
+}
+.dignity h2 {
+    font-size: 14px;
+    line-height: 18px;
+    color: #24242b;
+    font-weight: bold;
+}
+
+.dignity p {
+    font-size: 13px;
+    line-height: 18px;
+    color: #666666;
+    padding-top: 10px;
+    padding-bottom: 33px;
+}
+
+.dignity img {
+    padding-top: 37px;
+    padding-bottom: 24px;
+}
+
+.main-info {
+    background-color: #ffffff;
+}
+
+.main-info td {
+    width: 50%;
+}
+
+.main-info img {
+    width: 87%;
+    padding-top: 25px;
+    padding-left: 30px;
+    padding-bottom: 25px;
+    padding-right: 10px;
+}
+
+.main-info a {
+    font-size: 16px;
+    line-height: 24px;
+    color: #1f1f56;
+    font-weight: bold;
+    padding-top: 35px;
+    padding-left: 10px;
+    text-decoration: none;
+}
+
+.main-info p {
+    width: 80%;
+    font-size: 13px;
+    line-height: 19px;
+    color: #9999a6;
+    padding-left: 10px;
+}
+
+.main-center a,
+.main-center p {
+    padding-left: 30px;
+}
+
+.main-center img {
+    padding-right: 30px;
+    padding-left: 10px;
+}
+.pb {
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.main-center td {
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-style: solid;
+    border-color: #e3e3eb;
 }
