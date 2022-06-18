@@ -110,6 +110,7 @@ sup {
 
 .dignity td {
     padding-left: 32px;
+    vertical-align: top;
 }
 
 .dignity-last{
@@ -192,8 +193,9 @@ sup {
 }
 
 .sale {
-    background-image: url('https://raw.githubusercontent.com/shytuleva24/hata-plus/master/img/container.jpg');
+    background-image: url('https://raw.githubusercontent.com/shytuleva24/hata-plus/master/img/repit.jpg');
     background-color: #fd8300;
+    background-repeat: repeat;
 }
 
 .sale h1 {
